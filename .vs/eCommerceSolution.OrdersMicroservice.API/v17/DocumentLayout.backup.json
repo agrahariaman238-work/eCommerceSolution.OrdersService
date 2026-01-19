@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\dto\\orderaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dto\\orderaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFFAF71-AAE3-4F54-A9C1-AF9C8DD38009}|OrdersMicroservice.API\\OrdersMicroservice.API.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\ordersmicroservice.api\\apicontrollers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFFAF71-AAE3-4F54-A9C1-AF9C8DD38009}|OrdersMicroservice.API\\OrdersMicroservice.API.csproj|solutionrelative:ordersmicroservice.api\\apicontrollers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFFAF71-AAE3-4F54-A9C1-AF9C8DD38009}|OrdersMicroservice.API\\OrdersMicroservice.API.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\ordersmicroservice.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFFAF71-AAE3-4F54-A9C1-AF9C8DD38009}|OrdersMicroservice.API\\OrdersMicroservice.API.csproj|solutionrelative:ordersmicroservice.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFFAF71-AAE3-4F54-A9C1-AF9C8DD38009}|OrdersMicroservice.API\\OrdersMicroservice.API.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\ordersmicroservice.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1CFFAF71-AAE3-4F54-A9C1-AF9C8DD38009}|OrdersMicroservice.API\\OrdersMicroservice.API.csproj|solutionrelative:ordersmicroservice.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFFAF71-AAE3-4F54-A9C1-AF9C8DD38009}|OrdersMicroservice.API\\OrdersMicroservice.API.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\ordersmicroservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFFAF71-AAE3-4F54-A9C1-AF9C8DD38009}|OrdersMicroservice.API\\OrdersMicroservice.API.csproj|solutionrelative:ordersmicroservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFFAF71-AAE3-4F54-A9C1-AF9C8DD38009}|OrdersMicroservice.API\\OrdersMicroservice.API.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\ordersmicroservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CFFAF71-AAE3-4F54-A9C1-AF9C8DD38009}|OrdersMicroservice.API\\OrdersMicroservice.API.csproj|solutionrelative:ordersmicroservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E674B60-5BBD-4B3A-A998-62A0D8A010AA}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\dataaccesslayer\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E674B60-5BBD-4B3A-A998-62A0D8A010AA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E674B60-5BBD-4B3A-A998-62A0D8A010AA}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\dataaccesslayer\\repositorycontracts\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E674B60-5BBD-4B3A-A998-62A0D8A010AA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositorycontracts\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E674B60-5BBD-4B3A-A998-62A0D8A010AA}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\dataaccesslayer\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E674B60-5BBD-4B3A-A998-62A0D8A010AA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E674B60-5BBD-4B3A-A998-62A0D8A010AA}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\dataaccesslayer\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E674B60-5BBD-4B3A-A998-62A0D8A010AA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E674B60-5BBD-4B3A-A998-62A0D8A010AA}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\dataaccesslayer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E674B60-5BBD-4B3A-A998-62A0D8A010AA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\servicecontracts\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\servicecontracts\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\validators\\orderupdaterequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\validators\\orderupdaterequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\validators\\orderitemupdaterequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\validators\\orderitemupdaterequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\validators\\orderitemaddrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\validators\\orderitemaddrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\validators\\orderaddrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\validators\\orderaddrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\mappers\\orderupdaterequesttoordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mappers\\orderupdaterequesttoordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\mappers\\ordertoorderresponsemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mappers\\ordertoorderresponsemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\mappers\\orderitemupdaterequesttoorderitemmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mappers\\orderitemupdaterequesttoorderitemmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\mappers\\orderitemtoorderitemresponsemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mappers\\orderitemtoorderitemresponsemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\mappers\\orderitemaddrequesttoorderitemmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mappers\\orderitemaddrequesttoorderitemmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\mappers\\orderaddrequesttoordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mappers\\orderaddrequesttoordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\dto\\orderupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dto\\orderupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\dto\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dto\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\dto\\orderitemupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dto\\orderitemupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\dto\\orderitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dto\\orderitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\businesslogiclayer\\dto\\orderitemaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ACBAAB-65A6-4C88-83F1-8C87F72DF0FE}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dto\\orderitemaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E674B60-5BBD-4B3A-A998-62A0D8A010AA}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E674B60-5BBD-4B3A-A998-62A0D8A010AA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFFAF71-AAE3-4F54-A9C1-AF9C8DD38009}|OrdersMicroservice.API\\OrdersMicroservice.API.csproj|c:\\users\\aman agrahari\\source\\repos\\ecommercesolution.ordersmicroservice.api\\ordersmicroservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CFFAF71-AAE3-4F54-A9C1-AF9C8DD38009}|OrdersMicroservice.API\\OrdersMicroservice.API.csproj|solutionrelative:ordersmicroservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\OrdersMicroservice.API\\ApiControllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrdersMicroservice.API\\ApiControllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\OrdersMicroservice.API\\ApiControllers\\OrdersController.cs",
+              "RelativeToolTip": "OrdersMicroservice.API\\ApiControllers\\OrdersController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAIwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:51:40.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\OrdersMicroservice.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "OrdersMicroservice.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\OrdersMicroservice.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "OrdersMicroservice.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:50:37.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\OrdersMicroservice.API\\Dockerfile",
+              "RelativeDocumentMoniker": "OrdersMicroservice.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\OrdersMicroservice.API\\Dockerfile",
+              "RelativeToolTip": "OrdersMicroservice.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-19T01:50:19.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\DependencyInjection.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T01:00:20.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\OrdersMicroservice.API\\Program.cs",
+              "RelativeDocumentMoniker": "OrdersMicroservice.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\OrdersMicroservice.API\\Program.cs",
+              "RelativeToolTip": "OrdersMicroservice.API\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:05:31.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderAddRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\DTO\\OrderAddRequest.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTO\\OrderAddRequest.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\DTO\\OrderAddRequest.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTO\\OrderAddRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:59:16.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\OrdersMicroservice.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OrdersMicroservice.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\OrdersMicroservice.API\\appsettings.json",
+              "RelativeToolTip": "OrdersMicroservice.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-19T01:49:42.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\DataAccessLayer\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\DataAccessLayer\\DependencyInjection.cs",
+              "RelativeToolTip": "DataAccessLayer\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:48:28.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\DataAccessLayer\\RepositoryContracts\\IOrdersRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\RepositoryContracts\\IOrdersRepository.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\DataAccessLayer\\RepositoryContracts\\IOrdersRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\RepositoryContracts\\IOrdersRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA2wDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:27:57.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\DataAccessLayer\\Repositories\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\OrdersRepository.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\DataAccessLayer\\Repositories\\OrdersRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\OrdersRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:33:08.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\DataAccessLayer\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\DataAccessLayer\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:21:42.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\DataAccessLayer\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\DataAccessLayer\\Entities\\Order.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:17:15.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrdersService.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\ServiceContracts\\IOrdersService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\ServiceContracts\\IOrdersService.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\ServiceContracts\\IOrdersService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\ServiceContracts\\IOrdersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:01:14.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Services\\OrdersService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\OrdersService.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Services\\OrdersService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\OrdersService.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAiwL8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:49:26.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderUpdateRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Validators\\OrderUpdateRequestValidator.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Validators\\OrderUpdateRequestValidator.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Validators\\OrderUpdateRequestValidator.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Validators\\OrderUpdateRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:15:57.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItemUpdateRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Validators\\OrderItemUpdateRequestValidator.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Validators\\OrderItemUpdateRequestValidator.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Validators\\OrderItemUpdateRequestValidator.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Validators\\OrderItemUpdateRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:16:48.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderItemAddRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Validators\\OrderItemAddRequestValidator.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Validators\\OrderItemAddRequestValidator.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Validators\\OrderItemAddRequestValidator.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Validators\\OrderItemAddRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:14:02.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderAddRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Validators\\OrderAddRequestValidator.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Validators\\OrderAddRequestValidator.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Validators\\OrderAddRequestValidator.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Validators\\OrderAddRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:11:35.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderUpdateRequestToOrderMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Mappers\\OrderUpdateRequestToOrderMappingProfile.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mappers\\OrderUpdateRequestToOrderMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Mappers\\OrderUpdateRequestToOrderMappingProfile.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mappers\\OrderUpdateRequestToOrderMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:28:46.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderToOrderResponseMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Mappers\\OrderToOrderResponseMappingProfile.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mappers\\OrderToOrderResponseMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Mappers\\OrderToOrderResponseMappingProfile.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mappers\\OrderToOrderResponseMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:32:23.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderItemUpdateRequestToOrderItemMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Mappers\\OrderItemUpdateRequestToOrderItemMappingProfile.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mappers\\OrderItemUpdateRequestToOrderItemMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Mappers\\OrderItemUpdateRequestToOrderItemMappingProfile.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mappers\\OrderItemUpdateRequestToOrderItemMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:30:45.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderItemToOrderItemResponseMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Mappers\\OrderItemToOrderItemResponseMappingProfile.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mappers\\OrderItemToOrderItemResponseMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Mappers\\OrderItemToOrderItemResponseMappingProfile.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mappers\\OrderItemToOrderItemResponseMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:34:12.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderItemAddRequestToOrderItemMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Mappers\\OrderItemAddRequestToOrderItemMappingProfile.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mappers\\OrderItemAddRequestToOrderItemMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Mappers\\OrderItemAddRequestToOrderItemMappingProfile.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mappers\\OrderItemAddRequestToOrderItemMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:27:06.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderAddRequestToOrderMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Mappers\\OrderAddRequestToOrderMappingProfile.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mappers\\OrderAddRequestToOrderMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\Mappers\\OrderAddRequestToOrderMappingProfile.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mappers\\OrderAddRequestToOrderMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:23:57.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\DTO\\OrderUpdateRequest.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTO\\OrderUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\DTO\\OrderUpdateRequest.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTO\\OrderUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:19:55.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\DTO\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTO\\OrderResponse.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\DTO\\OrderResponse.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTO\\OrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:26:11.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderItemUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\DTO\\OrderItemUpdateRequest.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTO\\OrderItemUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\DTO\\OrderItemUpdateRequest.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTO\\OrderItemUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:26:10.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderItemResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\DTO\\OrderItemResponse.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTO\\OrderItemResponse.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\DTO\\OrderItemResponse.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTO\\OrderItemResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:26:08.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderItemAddRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\DTO\\OrderItemAddRequest.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTO\\OrderItemAddRequest.cs",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\BusinessLogicLayer\\DTO\\OrderItemAddRequest.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTO\\OrderItemAddRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T01:04:29.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-31T00:26:44.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\OrdersMicroservice.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrdersMicroservice.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Aman Agrahari\\source\\repos\\eCommerceSolution.OrdersMicroservice.API\\OrdersMicroservice.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrdersMicroservice.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-30T01:06:31.428Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

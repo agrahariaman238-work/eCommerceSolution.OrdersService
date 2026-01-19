@@ -1,0 +1,15 @@
+C:\Users\Aman Agrahari\source\repos\eCommerceSolution.OrdersMicroservice.API\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+C:\Users\Aman Agrahari\source\repos\eCommerceSolution.OrdersMicroservice.API\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\Aman Agrahari\source\repos\eCommerceSolution.OrdersMicroservice.API\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\Aman Agrahari\source\repos\eCommerceSolution.OrdersMicroservice.API\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Aman Agrahari\source\repos\eCommerceSolution.OrdersMicroservice.API\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Aman Agrahari\source\repos\eCommerceSolution.OrdersMicroservice.API\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Aman Agrahari\source\repos\eCommerceSolution.OrdersMicroservice.API\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Agrahari\source\repos\eCommerceSolution.OrdersMicroservice.API\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Aman Agrahari\source\repos\eCommerceSolution.OrdersMicroservice.API\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Aman Agrahari\source\repos\eCommerceSolution.OrdersMicroservice.API\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Aman Agrahari\source\repos\eCommerceSolution.OrdersMicroservice.API\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+C:\Users\Aman Agrahari\source\repos\eCommerceSolution.OrdersMicroservice.API\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\Aman Agrahari\source\repos\eCommerceSolution.OrdersMicroservice.API\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+C:\Users\Aman Agrahari\source\repos\eCommerceSolution.OrdersMicroservice.API\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\Aman Agrahari\source\repos\eCommerceSolution.OrdersMicroservice.API\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
